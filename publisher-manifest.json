@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "84c8c85000ae460457073981",
+  "owner": "jdtknry",
+  "repo": "page-8e1428ad016e933d0a5b2b8f",
+  "title": "林北网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e1428ad016e933d0a5b2b8f",
+      "a": "林北网络",
+      "b": "稳定全球clash加速器",
+      "entity": "林北网络",
+      "brand": "林北网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f4a5187125dfe5d27d314a9e2ba96fabb6ed66b09aa5e6c167c5693761566ce2",
+      "content": {
+        "primary_entity": "林北网络",
+        "keyword1": "林北网络",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，聚焦稳定连接与多设备适配，提供基础版、旗舰版、团队版三档套餐。每月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版与团队版配备专线节点与高带宽线路，适合游戏、流媒体和远程办公场景。客户端覆盖主流平台，配置方式简洁，按需选择订阅周期即可开始使用。",
+          "AI_HERO_SUBTITLE": "稳定全球线路，多设备畅连",
+          "AI_HERO_INTRO": "林北网络提供稳定全球加速服务，节点覆盖常用地区，支持 Clash 等客户端订阅导入。基础版适合个人日常浏览，旗舰版满足游戏与流媒体需求，团队版面向多设备与办公协作，三档套餐按流量和设备数区分，可按月或按年灵活订阅。",
+          "AI_VISUAL_TITLE": "稳定全球加速，多端畅连",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "专线节点低延迟",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "从个人到团队，按流量和设备数挑选合适档位。",
+          "AI_FEATURE_TITLE_1": "套餐对比清晰",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、旗舰版 300GB/月、团队版 1000GB/月，按用量选择。",
+          "AI_FEATURE_TITLE_2": "设备数匹配需求",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档设备上限，个人、家庭或团队各有对应方案。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持按月付或按年付，年付更省，旗舰版含 IPLC 专线与优先工单支持。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLIENTS_INTRO": "林北网络支持常见 Clash 客户端，按设备系统选择对应版本并导入订阅即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。按流量、设备数和节点类型挑选。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，三步完成接入。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量和设备数量，在基础版、旗舰版、团队版中挑选合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本是否满足所选套餐的运行环境。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照 Clash 客户端文档导入订阅链接，完成节点加载后即可连接使用。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅配置相关事项。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定畅连",
+          "AI_CLOSING_TEXT": "按用量和设备数挑选林北网络套餐，配置订阅后即可体验稳定全球加速。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。请按实际需要同时在线的设备数量选择，超出限制可能导致新设备无法连接。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览与日常通讯选基础版，有视频与下载需求选旗舰版，多人共享或高带宽场景选团队版。",
+          "AI_FAQ_ANSWER_3": "可以。三档套餐均提供年付方案，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。年付相对月付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "按设备系统选择客户端：Windows 与 macOS 使用桌面客户端，Android 与 iOS 使用手机客户端，路由器环境可参考对应固件文档。订阅导入方式以客户端说明为准。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。普通线路需求可选基础版，对延迟与解锁有更高要求时建议升级。",
+          "AI_FAQ_QUESTION_1": "林北网络一个账号能同时连几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "年付方案是否比月付划算？",
+          "AI_FAQ_QUESTION_4": "不同设备应该用什么客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版在加速与解锁上有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mxxyibx.cn",
+    "host": "mxxyibx.cn"
+  },
+  "file_hashes": {
+    "index.html": "619e5d17b883ea526fb9334579000fdb62745698f4acf814ee4c879c67906e41",
+    "sitemap.xml": "f82e7f001061e63530467c95ec235189eda7a129814dc684cb4e60a480ca5cb2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4630020da487dfaba0165fd0528440ffcbff6cced7ffb62487c0a0109eeb217e",
+    "robots.txt": "16778fb182fa88ad634beb593ec813808b525aae52b6ebf5e9be95d81ee44a44",
+    "68548df8bf8ea56466699883e6d9f60b.txt": "e3556053892ede0acb5e914e616d84c1dbbdc524e936b76e394d27e5183d9793"
+  },
+  "revision": "11165f7e834df2617b374a5b209a4ecbfbfdcb1146ed15b6c4baf2f4782598a6"
+}
